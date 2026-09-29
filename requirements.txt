@@ -20,7 +20,7 @@ flake8==3.4.1
 psutil==5.2.0
 pyOpenSSL==17.0.0
 python-coveralls==2.7.0
-pyYAML==3.12
+pyYAML==5.4
 requests==2.18.4
 requests-aws4auth==0.9
 six==1.10.0
